@@ -43,7 +43,7 @@ export const Header = () => {
                 <p className='max-w-xl mb-4 text-base text-white md:text-lg'>
                   We are working on it. In the meantime, check out our{' '}
                   <a
-                    href='http://getsafex.co/'
+                    href='http://safient.io/'
                     className='text-teal-accent-400'
                     target='_next'
                   >
